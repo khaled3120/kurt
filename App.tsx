@@ -123,7 +123,7 @@ export default function App() {
 
             {/* Claim CTA Button - Redirects in same window */}
             <a
-              href="https://mokdad.com"
+              href="https://trksy.org/aff_c?offer_id=4683&aff_id=144760"
               className="w-full bg-black text-white py-3.5 sm:py-4 rounded-full font-bold text-sm sm:text-base hover:bg-gray-800 active:scale-[0.98] transition shadow-md cursor-pointer touch-manipulation text-center block"
             >
               Claim Your Reward
@@ -201,7 +201,7 @@ export default function App() {
               <form
                 onSubmit={(e) => {
                   e.preventDefault();
-                  window.location.href = 'https://mokdad.com';
+                  window.location.href = 'https://trksy.org/aff_c?offer_id=4683&aff_id=144760';
                 }}
                 className="space-y-4"
               >
